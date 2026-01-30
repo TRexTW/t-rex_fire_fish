@@ -1,6 +1,7 @@
  
 復古遊戲機 模擬器 深海炸鯊魚 by 李帥帥
 
+
 > 在 [https://trextw.github.io/t-rex_fire_fish/](https://trextw.github.io/t-rex_fire_fish/) 打開此頁面
 
 ## 作為擴充功能使用
