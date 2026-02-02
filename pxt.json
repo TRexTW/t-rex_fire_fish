@@ -1,5 +1,5 @@
 {
-    "name": "USB",
+    "name": "Fire Fish 2",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -14,7 +14,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.55",
+        "target": "2.0.63",
         "targetId": "arcade"
     },
     "supportedTargets": [
